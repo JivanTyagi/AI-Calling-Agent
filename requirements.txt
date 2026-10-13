@@ -1,0 +1,43 @@
+# Web Framework
+Flask
+fastapi
+
+# Environment and Configuration
+python-dotenv
+
+# Networking
+requests
+websockets
+aiohttp
+
+# API Integrations
+twilio
+openai
+deepgram-sdk
+elevenlabs
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Event Handling
+event-emitter
+flask-sock
+
+# Logging
+colorlog
+loguru
+
+# Testing
+pytest
+pytest-asyncio
+
+# UI
+streamlit
+
+# Misc
+anthropic
+numpy
+
+# RAG Dependencies
+qdrant-client>=1.7.0
+sentence-transformers>=2.2.0
